@@ -1,2 +1,2 @@
 # Plot-Graph
-Basic plot graph for jetpack compose designed around sdk 34.
+This is a demo for a plot graph that can take a list of ints of x and y coordinates and plot a line of the coordinates on the graph. The program generates evenly spaces column and row labeles so that they increment evenly. once that has been calculated the graph program can accurately plot the point that was given. The graph can also be modified to handle to have more or less lines and the size of the graph can also be set. 
